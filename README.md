@@ -181,4 +181,4 @@ cf_ai_career-coach/
 
 ## Author
 
-Built by Shiven (Neo) Paudyal as part of the Cloudflare SWE Internship application.
+Built by Shiven Paudyal as part of the Cloudflare SWE Internship application.
